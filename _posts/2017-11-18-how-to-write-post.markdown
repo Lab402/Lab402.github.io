@@ -3,7 +3,7 @@ layout: post
 title: How to write post on blog
 date: 2017-11-18 01:40:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: img_0764.jpg# Add image post (optional)
+img: img_0539.jpg# Add image post (optional)
 tags: [Cat, Description]
 ---
 
@@ -23,9 +23,9 @@ tags: [Cat, Description]
 
  5) Img 등록 방법은 아래와 같음.
 
-   "({{site.baseurl}}/assets/img/IMG_0764.jpg)".
+   "![Descryption]({{site.baseurl}}/assets/img/IMG_0764.jpg)".
 
-![cat!]({{site.baseurl}}/assets/img/img_0764.jpg)
+![cat!]({{site.baseurl}}/assets/img/img_0545.jpg)
 
  6) git add --all or -a.
 
