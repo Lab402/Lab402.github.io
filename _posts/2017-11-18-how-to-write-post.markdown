@@ -3,7 +3,7 @@ layout: post
 title: How to write post on blog
 date: 2017-11-18 01:40:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: IMG_0764.png # Add image post (optional)
+img: img_0764.png# Add image post (optional)
 tags: [Cat, Description]
 ---
 
@@ -12,9 +12,7 @@ tags: [Cat, Description]
  신종환이 Git Commit권한을 수여한 사람들에 한하여 가능함.
 
  1) id / email setting.
-
     git config user.id.
-
     git config user.email.
 
  2) git pull or copy https://github.com/lab402/lab402.github.io.
@@ -27,7 +25,7 @@ tags: [Cat, Description]
 
    "({{site.baseurl}}/assets/img/IMG_0764.png)".
 
-({{site.baseurl}}/assets/img/IMG_0764.png)
+[]({{site.baseurl}}/assets/img/IMG_0764.png)
 
  6) git add --all or -a.
 
