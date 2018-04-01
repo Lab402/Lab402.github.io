@@ -23,9 +23,9 @@ tags: [Cat, Description]
 
  5) Img 등록 방법은 아래와 같음.
 
-   "![Descryption]({{site.baseurl}}/assets/img/IMG_0545.jpg)".
+   "![Descryption]({{site.url}}/assets/img/IMG_0545.jpg)".
 
-![cat!]({{site.baseurl}}/assets/img/IMG_0545.jpg)
+![cat!]({{site.url}}/assets/img/IMG_0545.jpg)
 
  6) git add --all or -a.
 
