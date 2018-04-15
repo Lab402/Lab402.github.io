@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Initiation GBA
+title: [Project Initiation] ModernGBA
 date: 2018-04-01 14:40:00 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: IMG_0539.jpg
