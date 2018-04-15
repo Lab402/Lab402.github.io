@@ -40,6 +40,8 @@ Github 주소: https://github.com/lab402/VisualBoyAdvance
     Modern C/C++ 스터디
     소스코드 리팩토링
 
+## [Team Trello](https://trello.com/b/tqNgn8U9/modern-vba)
+
 <ul>
   {% for post in site.posts %}
     <li>
